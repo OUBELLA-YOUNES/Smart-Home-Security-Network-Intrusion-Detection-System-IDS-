@@ -1,4 +1,3 @@
-# Smart-Home-Security-Network-Intrusion-Detection-System-IDS-
 # PFE: Smart Home Security & Network Intrusion Detection System (IDS)
 
 A comprehensive Smart Home Security platform engineered as a graduation project (Projet de Fin d'Études). This system bridges IoT hardware simulation, data confidentiality, real-time telemetry processing, and dedicated enterprise network threat mitigation.
